@@ -1,0 +1,36 @@
+h2{
+    color:rgb(1, 13, 13);
+    text-decoration:underline greens;
+}
+p{
+    color:maroon;
+    font-size: 20px;
+}
+span{
+    border: 1px solid rgb(5, 20, 99);
+    color: burlywood;
+    text-align: center;
+}
+ul li{
+    color: rgb(140, 28, 8);
+    display: inline;
+}
+.header{
+    height:100px;
+    color: green;
+    padding:25px;
+    background-image: url('../images/hello.jpg');
+    background-size:cover;
+    background-color: gray;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    margin-bottom:50px;
+    }
+.blog{
+    background-color: rgb(28, 121, 142);
+    box-shadow: 12px 12px 10px 5px rgba(0, 0, 255, .2);
+    border:10px solid greenyellow;
+    border-radius: 20px;
+    padding: 20px 10px 20px 10px;
+    margin-bottom:50px;
+}
